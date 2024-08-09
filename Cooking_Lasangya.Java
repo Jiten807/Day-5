@@ -1,6 +1,7 @@
 class Cooking_Lasngya{
-    public class Lasngna {
-  int expectedbakingintheoven = 40;
-  System.out.println(expectedbakingintheoven)
+    \public class Lasngna {
+  int mintues = 40;
+  public expectedbakingintheoven();
+  return mintues;
     }
 }
