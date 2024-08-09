@@ -1,5 +1,6 @@
 class Cooking_Lasngya{
     public class Lasngna {
-  int timespentbakingintheoven = 40;
+  int expectedbakingintheoven = 40;
+  System.out.println(expectedbakingintheoven)
     }
 }
